@@ -1,4 +1,6 @@
-# appstore-app
+# Mini Project
+
+![App Screenshot](https://github.com/lathief/004_WPA_MukhtarulLathief/blob/main/Mini%Project/Screenshot.png?raw=true)
 
 ## Project setup
 ```
